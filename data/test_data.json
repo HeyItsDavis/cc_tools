@@ -1,0 +1,28 @@
+{
+ "games" : [
+    {
+      "title" : "Chips Challenge",
+      "year" : 1989,
+      "platform" : {
+        "name" : "Atari Lynx",
+        "launchYear" : 1989
+      }
+    },
+    {
+      "title" : "Chips Challenge 2",
+      "year" : 2015,
+      "platform" : {
+        "name" : "Steam",
+        "launchYear" : 2003
+      }
+    },
+    {
+      "title" : "Baba Is You",
+      "year" : 2019,
+      "platform" : {
+        "name" : "Steam",
+        "launchYear" : 2003
+      }
+    }
+  ]
+}
